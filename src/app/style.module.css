@@ -1,0 +1,18 @@
+ @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Grape+Nuts&family=Lexend+Peta:wght@100;200;300;400;500;600;700;800;900&family=Mochiy+Pop+P+One&family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Playfair+Display:ital,wght@1,800&family=Poppins:ital,wght@0,300;1,200&family=Righteous&family=Roboto+Mono:wght@700&family=Smooch&display=swap');
+ .sage {
+     font-size: 30px;
+     font-weight: bolder;
+     font-family: 'Poppins', sans-serif;
+     background: -webkit-linear-gradient(#fe08d9, #ffffff);
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+ }
+ 
+ .Gallery {
+     font-size: 30px;
+     font-weight: bolder;
+     font-family: 'Dancing Script', cursive;
+     background: -webkit-linear-gradient(#eee, #7996ec);
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+ }
